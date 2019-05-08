@@ -1,0 +1,5 @@
+Compilation:
+run `make` in the project root
+
+Usage example:
+./main < vc_exact_001.gr
